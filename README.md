@@ -77,7 +77,7 @@ SKETCH OF SUGGESTED CONTROL INTERFACE WITH IMPROVEMENTS:
 DESIGN AND IMPLEMENTATION OF THE TOUCH SCREEN WITH INTERACTIVE FEATURES:  
 
 
-![](new_interface_in_use.gif)
+![](hw1.64.patel.gif)
 
 The improved version of this interface has all the same things as the old interface with some more modern improvements such as amenities on each floor.  This is very beneficial to the guests as they would not have to ask the reception desk where everything is at.  Having worked the front desk for 4 years now, one of the most common questions we get asked is "Where are your ice machines?"  With this design, guests will have details on where each of the ice machines are and where they are located.  Moreover, this version of the interface makes it possible for the user to unselect the floor in the case where the user accidently presses the wrong floor.  This saves the user time by preventing the elevator from wasting time by going to a floor where no one needs to go.  This version of the interface also indicates to the user when something has already been presses by either flashing or staying highlighted.  
 
