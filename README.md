@@ -5,7 +5,7 @@ Links:
 
 Source Code:  https://github.com/pratikppatel1616/hw1.64.patel/blob/master/myinterface.java
 
-Presentation Page:    https://github.com/pratikppatel1616/hw1_interface/blob/master/README.md
+Presentation Page:   https://github.com/pratikppatel1616/hw1.64.patel
 
 Github Repository:   https://github.com/pratikppatel1616/hw1_interface
 
