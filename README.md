@@ -3,7 +3,7 @@ Elevator Interface for CS 3366 (HW 1)
 
 Links: 
 
-Source Code:  https://github.com/pratikppatel1616/hw1_interface/blob/master/myinterface.java
+Source Code:  https://github.com/pratikppatel1616/hw1.64.patel/blob/master/myinterface.java
 
 Presentation Page:    https://github.com/pratikppatel1616/hw1_interface/blob/master/README.md
 
