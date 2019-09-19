@@ -19,6 +19,8 @@ The elevator from Baymont Inn & Suites - Lubbock West:
 
 Elevator Demonstration (GIF): 
 
+![](current_interface_in_use.gif)
+
 
 //////////////////////////////////////--- TO GET A C ----///////////////////////////////////////////
 
