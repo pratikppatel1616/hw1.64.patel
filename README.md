@@ -70,7 +70,7 @@ ELEVATOR SUPPORT/FEEDBACK TO USER:
 
 SKETCH OF SUGGESTED CONTROL INTERFACE WITH IMPROVEMENTS:  
 
-//////
+![](sketch_of_new_interface.gif.jpg)
 
 ////////////////////////////////////////------ TO GET AN A--------///////////////////////////////////
 
