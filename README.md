@@ -64,9 +64,9 @@ COMMON MISTAKES WITH CURRENT DESIGN:
 2.	Pressing a floor that is greater/less than the floor you need.  It is not possible to stop at         a floor in the middle because the interface responds to the sequence of buttons pressed.  For         example, if user enters from ground floor and then presses 2, 4, 3 then the elevator will go         to those floors in that order.  A better design would be to go in order (2, 3 then 4) to not         only save energy costs but for the sake of time efficiency.  
 
 ELEVATOR SUPPORT/FEEDBACK TO USER:  
-1.      This particular elevator will start to beep once the door has been open for a certain period         of time, which lets the user know that they must let the door close and select the desired           floor
-2.      If user calls for help using the help/call button then the button will flash indicating to           the user that their call has been answered and help is on the way. 
-3.      The current design does have a call cancel button which can be turned off once help has               arrived. 
+1.      This particular elevator will start to beep once the door has been open for a certain period of time, which lets the 			user know that they must let the door close and select the desired floor
+2.      If user calls for help using the help/call button then the button will flash indicating to the user that their call has been 		answered and help is on the way. 
+3.      The current design does have a call cancel button which can be turned off once help has arrived. 
 
 SKETCH OF SUGGESTED CONTROL INTERFACE WITH IMPROVEMENTS:  
 
