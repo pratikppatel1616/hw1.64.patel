@@ -7,7 +7,7 @@ Source Code:  https://github.com/pratikppatel1616/hw1.64.patel/blob/master/myint
 
 Presentation Page:   https://github.com/pratikppatel1616/hw1.64.patel
 
-Github Repository:   https://github.com/pratikppatel1616/hw1_interface
+Github Repository:   https://github.com/pratikppatel1616/hw1.64.patel
 
 
 The elevator from Baymont Inn & Suites - Lubbock West: 
