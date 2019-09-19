@@ -12,9 +12,9 @@ Github Repository:   https://github.com/pratikppatel1616/hw1_interface
 
 The elevator from Baymont Inn & Suites - Lubbock West: 
 
-![](inside_interface_FINAL.png)
+![](inside_interface_FINAL.PNG)
 
-![](outside_interface_FINAL.png)
+![](outside_interface_FINAL.PNG)
 
 
 Elevator Demonstration (GIF): 
