@@ -76,7 +76,7 @@ SKETCH OF SUGGESTED CONTROL INTERFACE WITH IMPROVEMENTS:
 
 DESIGN AND IMPLEMENTATION OF THE TOUCH SCREEN WITH INTERACTIVE FEATURES:  
 
-![](new interface (static).GIF)
+![](new interface (static).gif)
 
 ![](new_interface_in_use.gif)
 
